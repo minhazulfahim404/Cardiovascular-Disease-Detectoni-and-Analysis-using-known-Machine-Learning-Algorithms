@@ -1,3 +1,3 @@
-# Cardiovascular-Disease-Detectoni-and-Analysis-using-known-Machine-Learning-Algorithms
+# Cardiovascular-Disease-Detecton-and-Analysis-using-known-Machine-Learning-Algorithms
 
 In this project, the focus is on detecting and analyzing Cardiovascular Disease using Machine Learning algorithms. It begins with importing necessary libraries, loading the dataset, and conducting initial data exploration to check for missing values. After preprocessing the data, features and target variables are separated. A summary of the data is generated to understand its statistics and distribution. Feature importance is determined to identify key predictors. Finally, multiple machine learning models including Random Forest, Decision Tree, Naïve Bayes, KNN, and SVM are trained and evaluated to determine their accuracies in predicting cardiovascular disease.
